@@ -1,0 +1,85 @@
+[
+	{
+		"path": "root",
+		"type": "folder",
+		"name": "root",
+		"children": [
+			{
+				"path": "root/docs",
+				"type": "folder",
+				"name": "docs",
+				"children": [
+					{
+						"path": "root/docs/aadhar.pdf",
+						"type": "file",
+						"name": "aadhar.pdf"
+					},
+					{
+						"path": "root/docs/pan_card.pdf",
+						"type": "file",
+						"name": "pan_card.pdf"
+					},
+					{
+						"path": "root/docs/passport.jpg",
+						"type": "file",
+						"name": "passport.jpg"
+					},
+					{
+						"path": "root/docs/screenshot.jpg",
+						"type": "file",
+						"name": "screenshot.jpg"
+					}
+				]
+			},
+			{
+				"path": "root/Desktop",
+				"type": "folder",
+				"name": "Desktop",
+				"children": [
+					{
+						"path": "root/Desktop/resume.pdf",
+						"type": "file",
+						"name": "resume.pdf"
+					},
+					{
+						"path": "root/Desktop/schedule.doc",
+						"type": "file",
+						"name": "schedule.doc"
+					},
+					{
+						"path": "root/Desktop/music.mp4",
+						"type": "file",
+						"name": "music.mp4"
+					}
+				]
+			},
+			{
+				"path": "root/Projects",
+				"type": "folder",
+				"name": "Projects",
+				"children": [
+					{
+						"path": "root/Projects/Project1",
+						"type": "folder",
+						"name": "Project1"
+					},
+					{
+						"path": "root/Projects/Project2",
+						"type": "folder",
+						"name": "Project2"
+					},
+					{
+						"path": "root/Projects/Project3",
+						"type": "folder",
+						"name": "Project3"
+					}
+				]
+			},
+			{
+				"path": "root/resume.pdf",
+				"type": "file",
+				"name": "resume.pdf"
+			}
+		]
+	}
+]
